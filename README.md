@@ -1,14 +1,18 @@
 # Challenge Study
-![Version](https://img.shields.io/itunes/v/com.majikprod.Challenge-A-Study.svg) ![Swift](https://img.shields.io/badge/language-swift-yellow.svg)
+![Version](https://img.shields.io/itunes/v/1309353441.svg) ![Swift](https://img.shields.io/badge/language-swift-yellow.svg)
 
 
 ## Status
 The application is in beta testing. It will be released for consumption very soon. 
 
+![Screenshots](ChallengeScreenshots.png)
+
 ## Intended Use
 This application is intended to help Challenge A students with repetition and memorization. Several points of the curriculum include memorization, and students may want variety from index cards. Challenge A Study provides symbolic rewards for mastering individual grammar items (in the form of stars) and for mastering random groupings of grammar items (in the form of quiz trophies). 
 
 While students could create their own interactive flashcards on other platforms, the Challenge A Study application is week aware, allowing students to see only those grammar items that are already part of their assignments. In both study and quiz modes, students can focus on the current week's new challenges or practice including all previous weeks. 
+
+
 
 ## Features
 + Week by Week grammar for Challenge A
