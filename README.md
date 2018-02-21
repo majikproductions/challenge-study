@@ -3,16 +3,16 @@
 
 
 ## Status
-The application is in beta testing. It will be released for consumption very soon. 
+The application is available in the Us App Store. Get it today: [Challenge Study](https://itunes.apple.com/us/app/challenge-study/id1309353441?mt=8)
 
 ![Screenshots](ChallengeScreenshots.png)
 
 ## Intended Use
-This application is intended to help Challenge A students with repetition and memorization. Several points of the curriculum include memorization, and students may want variety from index cards. Challenge A Study provides symbolic rewards for mastering individual grammar items (in the form of stars) and for mastering random groupings of grammar items (in the form of quiz trophies). 
+This application is intended to help Classical Conversations Challenge A students with repetition and memorization. Several points of the curriculum include memorization, and students may want variety from index cards. Challenge Study provides symbolic rewards for mastering individual grammar items (in the form of stars) and for mastering random groupings of grammar items (in the form of quiz trophies). 
 
 While students could create their own interactive flashcards on other platforms, the Challenge A Study application is week aware, allowing students to see only those grammar items that are already part of their assignments. In both study and quiz modes, students can focus on the current week's new challenges or practice including all previous weeks. 
 
-
+Without the password, Challenge Study will only allow you to study and quiz on country shapes. Get your password from CC Connected. 
 
 ## Features
 + Week by Week grammar for Challenge A
